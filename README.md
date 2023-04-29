@@ -818,4 +818,4 @@ Returns an object based on the information in [Get Gateway](#DOCS_TOPICS_GATEWAY
 | total           | integer | Total number of session starts the current user is allowed     |
 | remaining       | integer | Remaining number of session starts the current user is allowed |
 | reset_after     | integer | Number of milliseconds after which the limit resets            |
-| max_concurrency | integer | Number of identify requests allowed per 5 seconds              |}{#git pull origin main}
+| max_concurrency | integer | Number of identify requests allowed per 5 seconds              |}{#git pull origin main}{git push -u origin main}
