@@ -1,9 +1,9 @@
-# .github-private
+{# .github-private
 Majestic Twelve Crypto XRP XUMM exchange : rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv
 NSA-KBIESZCZAT XUMM exchange address NSA-KBIESZCZAT XUMM exchange address: rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA 
-XUMM TRUST
-
-API keys: 6bee7aa3-9eb9-48e2-8b0e-97f9f3aa0e51
+XUMM TRUST}
+{ngrok http 80 --oauth=github}
+{API keys: 6bee7aa3-9eb9-48e2-8b0e-97f9f3aa0e51
 
 21a11ec6-9522-45a7-8cae-3e92b703f968
 
@@ -19,7 +19,7 @@ API key c20b65f7-0679-4da0-a694-cde394578b01
 Secret API key 2132bbe6-695d-424f-8034-b29841e1adac
 https://xumm.app/api/v1/platform/payload
 {MacOS (Darwin): "~/Library/Application Support/ngrok/ngrok.yml"}
-JSON
+JSON}
 
 { 
   "txjson": {
