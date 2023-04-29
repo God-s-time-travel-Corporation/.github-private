@@ -225,4 +225,6 @@ const main = async () => {
   }
 }
 
-main()
+main()(#$ git clone https://github.com/USERNAME/REPO.git
+Username: YOUR_USERNAME
+Password: YOUR_TOKEN#.
