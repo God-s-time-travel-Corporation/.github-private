@@ -935,6 +935,7 @@ Returns an object based on the information in [Get Gateway](#DOCS_TOPICS_GATEWAY
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
 -d '{"description":"development cred for alan@example.com"}' \
-https://api.ngrok.com/credentials)}
+https://api.ngrok.com/credentials)
 
+ngrok config add-authtoken <token>}
 
