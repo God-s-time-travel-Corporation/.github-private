@@ -18,7 +18,7 @@ First payload:
 API key c20b65f7-0679-4da0-a694-cde394578b01
 Secret API key 2132bbe6-695d-424f-8034-b29841e1adac
 https://xumm.app/api/v1/platform/payload
-
+{MacOS (Darwin): "~/Library/Application Support/ngrok/ngrok.yml"}
 JSON
 
 { 
