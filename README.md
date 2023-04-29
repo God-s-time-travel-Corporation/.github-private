@@ -954,3 +954,65 @@ https://docs.xumm.dev
 The CDN location for this pacakge for VannilaJS use: [here](https://xumm.app/assets/cdn/xumm.min.js).
 
 `https://xumm.app/assets/cdn/xumm.min.j}
+m[05:53:35.840] XUMM version 2.4.0_13_R 
+[05:53:35.841] Device Apple iPhone14,3 - OS Version 16.4.1 
+[05:53:35.846] Timezone set to America/Chicago 
+[05:53:35.852] Current schema version: v12 
+[05:53:35.852] Schema version is latest, No migration needed. 
+[05:53:35.857] Storage compact: 0.13 MB / 0.06 MB - Should compact false 
+[05:53:35.859] Locale set to: EN-AU 
+[05:53:35.877] Current Network Base/Owner reserve: 10/2 
+[05:53:35.879] Push don"t have the right permission or unable to get FCM token 
+[05:53:36.66] Start Syncing with backend 
+[05:53:36.977] Connected to node wss://xrplcluster.com [Mainnet][n9KMg61QJfSvPYrVc8YAEoF44f3X4K3XYsHhzVYUmmPCBiww99xv] 
+[05:53:36.978] Subscribed to 6 accounts ["rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2","rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX","rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e","rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV"]
+[05:53:37.364] Fetch account info [rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2]: "actNotFound"
+[05:53:37.373] Fetch account info [rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX]: "actNotFound"
+[05:53:37.379] Fetch account info [rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e]: "actNotFound"
+[05:53:37.446] Fetch account info [rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV]: "actNotFound"
+[05:56:15.88] Socket closed 
+[05:56:15.401] Reconnecting socket service... 
+[05:56:16.171] Connected to node wss://xrplcluster.com [Mainnet][n9Ki2RXdGrpxJjvjRvLERqGddu7L7NqpSdAthTkwV3dQHKHXF2PJ] 
+[05:56:16.172] Subscribed to 6 accounts ["rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2","rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX","rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e","rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV"]
+[05:56:16.569] Fetch account info [rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2]: "actNotFound"
+[05:56:16.577] Fetch account info [rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX]: "actNotFound"
+[05:56:16.582] Fetch account info [rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e]: "actNotFound"
+[05:56:16.651] Fetch account info [rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV]: "actNotFound"
+[05:56:38.337] Socket closed 
+[05:57:42.424] Reconnecting socket service... 
+[05:57:43.447] Connected to node wss://xrplcluster.com [Mainnet][n9Ki2RXdGrpxJjvjRvLERqGddu7L7NqpSdAthTkwV3dQHKHXF2PJ] 
+[05:57:43.448] Subscribed to 6 accounts ["rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2","rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX","rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e","rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV"]
+[05:57:43.853] Fetch account info [rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2]: "actNotFound"
+[05:57:43.859] Fetch account info [rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX]: "actNotFound"
+[05:57:43.931] Fetch account info [rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e]: "actNotFound"
+[05:57:43.935] Fetch account info [rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV]: "actNotFound"
+[05:58:01.959] Socket closed 
+[06:00:06.228] Reconnecting socket service... 
+[06:00:07.351] Connected to node wss://xrplcluster.com [Mainnet][n9JuyLetbC2aVMLLCxVFgumBJ7rASoR8KpbU8rzw5LnvXXmK6EmC] 
+[06:00:07.352] Subscribed to 6 accounts ["rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2","rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX","rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e","rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV"]
+[06:00:08.25] Fetch account info [rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2]: "actNotFound"
+[06:00:08.31] Fetch account info [rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX]: "actNotFound"
+[06:00:08.97] Fetch account info [rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e]: "actNotFound"
+[06:00:08.100] Fetch account info [rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV]: "actNotFound"
+[06:00:12.217] Transaction received: C8AC8371448743504D1AE5986984CC191C36C2BAD410936E5B9E9A7F5E567E28 
+[06:00:26.972] Socket closed 
+[06:00:58.262] Reconnecting socket service... 
+[06:00:59.240] Connected to node wss://xrplcluster.com [Mainnet][n9JuyLetbC2aVMLLCxVFgumBJ7rASoR8KpbU8rzw5LnvXXmK6EmC] 
+[06:00:59.241] Subscribed to 6 accounts ["rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2","rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX","rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e","rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV"]
+[06:00:59.849] Fetch account info [rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2]: "actNotFound"
+[06:00:59.927] Fetch account info [rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX]: "actNotFound"
+[06:00:59.935] Fetch account info [rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e]: "actNotFound"
+[06:00:59.941] Fetch account info [rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV]: "actNotFound"
+[06:02:35.302] Transaction received: 787C9B9BF15A38E02A3AFD0F1C3C4E64BEE78EEFF5BCD9DBE72717BFE244CABB 
+[06:03:13.583] Transaction received: 19B298412F2042F575AF8020B1EBA4CE8F8E9C2F453899B6E3D35B3C7C6F8272 
+[06:03:17.570] Transaction received: 831E923449936DE3FA44DED43AA8DA01A9972080F918C1193B8E8B1B6BD9E3BC 
+[06:04:04.135] Socket closed 
+[06:46:45.887] Reconnecting socket service... 
+[06:46:46.814] Connected to node wss://xrplcluster.com [Mainnet][n9KMg61QJfSvPYrVc8YAEoF44f3X4K3XYsHhzVYUmmPCBiww99xv] 
+[06:46:46.814] Subscribed to 6 accounts ["rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2","rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX","rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e","rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV"]
+[06:46:47.366] Fetch account info [rGWiX2tWeMo4Z3SjuUdDftuZm8mWxhz7C2]: "actNotFound"
+[06:46:47.474] Fetch account info [rsPvLYbr2gMat7mV5baLgA9cSdVUvjFuFX]: "actNotFound"
+[06:46:47.479] Fetch account info [rfVsb8HejtasMk5q65m37gZ19YK4KNYy6e]: "actNotFound"
+[06:46:47.484] Fetch account info [rfeZe3yrU61yBnzwuAVjJkE2XRmfAdZhHV]: "actNotFound"
+[06:47:12.974] Transaction received: D06490BEACA389E459F826B30F163C6C251AF8653CEC96BAE43BE2E0719498F2 
+[06:47:13.47] Transaction received: 3EEC026C188E3276597851E34CEF94EAD2ACFD0870D5F7AB4FADD58A53A3607C 
